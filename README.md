@@ -40,7 +40,7 @@ Email**: odjacob70.email@example.com
 
 ## 📄 Dashboard PDF
 
-[🔗 View Dashboard image](./Dashboard1.png)
+[🔗 View Dashboard image](./dashboard1.png)
 
 
 
