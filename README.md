@@ -40,7 +40,7 @@ Email**: odjacob70.email@example.com
 
 ## 📄 Dashboard PDF
 
-[🔗 View Dashboard PDF](./powereBiProject1Dashboard.pdf)
+[🔗 View Dashboard image](./Dashboard1.png)
 
 
 
