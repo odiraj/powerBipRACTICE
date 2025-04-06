@@ -36,9 +36,10 @@ These dashboards were created using **Power BI Desktop**. To explore them fully:
 If you have any questions or want to collaborate, feel free to reach out!
 
 GitHub (https://github.com/odiraj)
-- **Email**: odjacob70.email@example.com
+Email**: odjacob70.email@example.com
 
----
+
+[📄 View Full PDF](powerBipRactice/powerBiProject1Dashboard.pdf)
 
 
 
